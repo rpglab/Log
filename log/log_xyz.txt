@@ -1,0 +1,5 @@
+2021-12-18 16:48:50 No.1 t=0.00 seconds [ Start, diary record starts here ... ]
+2021-12-18 16:48:51 No.2 t=0.17 seconds [ CheckPoint, an object of Example 2 is instantiated ]
+2021-12-18 16:48:52 No.3 t=1.73 seconds [ MileStone, RTCA is succefully completed ]
+2021-12-18 16:48:52 No.4 t=1.73 seconds [ Warning, the RTCA violations are too large to be correct ]
+2021-12-18 16:48:52 No.5 t=1.73 seconds [ End, diary record ends here ... ]

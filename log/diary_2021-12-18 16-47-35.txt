@@ -1,0 +1,5 @@
+2021-12-18 16:47:35 No.1 t=0.00 seconds [ Start, diary record starts here ... ]
+2021-12-18 16:47:35 No.2 t=0.25 seconds [ Log, PF is succefully completed ]
+2021-12-18 16:47:36 No.3 t=1.25 seconds [ CheckPoint, OPF is succefully completed ]
+2021-12-18 16:47:36 No.4 t=1.56 seconds [ MileStone, RTCA is succefully completed ]
+2021-12-18 16:47:36 No.5 t=1.56 seconds [ End, diary record ends here ... ]
