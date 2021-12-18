@@ -3,7 +3,7 @@ This is a set of Java codes that create a log file. It allows users to easily wr
 
 By default, the log file will be automatically created when the class *DiaryXL* is instantiated with a unique file name (launching time is part of the log file name).
 
-Two examples are provided to show how to use the developed classes for logging purpose; (if counting the simple example in the main function of DiaryXL.java, then three examples). Results for those three examples are also provided for users' convenience.
+Two examples are provided to show how to use the developed classes for logging purpose; (if counting the simple example in the main function of *DiaryXL.java*, then three examples). Results for those three examples are also provided for users' convenience.
 
 
 ## Contact:
