@@ -1,5 +1,5 @@
 # Log
-This is a set of Java codes that create a log file. It allows users to easily write log information with ellapsed timestamps and CPU clock time in the log file and it can be smoothly incorporated into users' own codes. Each log information is numbered and ordered.
+This is a set of Java codes that create a log file. It allows users to easily write log information with elapsed time and CPU clock time in the log file and it can be smoothly incorporated into users' own codes. Each log information is numbered and ordered.
 
 By default, the log file will be automatically created when the class *DiaryXL* is instantiated with a unique file name (launching time is part of the log file name).
 
