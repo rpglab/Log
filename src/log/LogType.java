@@ -3,6 +3,7 @@ package log;
 /**
  * 
  * @author Xingpeng Li (xplipower@gmail.com)
+ *         Website: https://rpglab.github.io/
  *
  */
 public enum LogType

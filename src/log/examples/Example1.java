@@ -7,6 +7,7 @@ import log.LogType;
  * An example to show how to generate log files with log information 
  * 
  * @author Xingpeng Li, xplipower@gmail.com 
+ *         Website: https://rpglab.github.io/
  * 
  */
 public class Example1 {

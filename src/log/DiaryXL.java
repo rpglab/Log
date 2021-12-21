@@ -10,6 +10,7 @@ import java.util.Date;
 /**
  * 
  * @author Xingpeng Li, xplipower@gmail.com 
+ *         Website: https://rpglab.github.io/
  * 
  */
 public class DiaryXL {
