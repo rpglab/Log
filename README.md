@@ -5,6 +5,8 @@ By default, the log file will be automatically created when the class *DiaryXL* 
 
 Two examples are provided to show how to use the developed classes for logging purpose; (if counting the simple example in the main function of *DiaryXL.java*, then three examples). Results for those three examples are also provided for users' convenience.
 
+* A Python version of this logging function is available at: https://rpglab.github.io/resources/Logging-Python/
+
 
 ## Contact:
 Dr. Xingpeng Li
